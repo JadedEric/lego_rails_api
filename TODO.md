@@ -4,6 +4,9 @@ Lego Build Instructions is part of my journey to learn Ruby on Rails and an effo
 ### New
 
 - [ ] Test insert to 'scrape' table
+- [ ] Unit test for a basic POST request to lego.com instruction API
+- [ ] Unit test for a basic POST request to rebrickable.com instruction api
+- [ ] Unit test for basic screen scraping from buildinstructions.com
 
 ### In Progress
 
